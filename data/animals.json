@@ -189,6 +189,24 @@
         "hungry"
       ],
       "id": "19"
+    },
+    {
+      "name": "Carley",
+      "species": "Human",
+      "diet": "num nums",
+      "personalityTraits": [
+        "sexy"
+      ],
+      "id": "20"
+    },
+    {
+      "name": "joe",
+      "species": "dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "21"
     }
   ]
 }
